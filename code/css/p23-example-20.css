@@ -1,0 +1,7 @@
+/* Extracted from css-book.pdf, page 23. */
+h1 {
+  letter-spacing: -3px;
+}
+p {
+  letter-spacing: 10px;
+}

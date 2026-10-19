@@ -1,0 +1,9 @@
+/* Extracted from css-book.pdf, page 32. */
+h1 {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+p {
+  margin-left: 75px;
+  margin-right: 75px;
+}

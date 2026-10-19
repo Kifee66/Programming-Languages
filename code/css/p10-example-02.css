@@ -1,0 +1,8 @@
+/* Extracted from css-book.pdf, page 10. */
+body {
+  background: lightyellow;
+  color: blue;
+}
+h1 {
+  color: orange;
+}

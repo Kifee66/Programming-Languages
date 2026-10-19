@@ -1,0 +1,4 @@
+/* Extracted from css-book.pdf, page 28. */
+ul li {
+  list-style-image: url("images/bullet.png");
+}

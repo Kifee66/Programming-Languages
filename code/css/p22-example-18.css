@@ -1,0 +1,10 @@
+/* Extracted from css-book.pdf, page 22. */
+h1 {
+  text-transform: uppercase;
+}
+h2 {
+  text-transform: capitalize;
+}
+h3 {
+  text-transform: lowercase;
+}
