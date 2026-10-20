@@ -1,0 +1,27 @@
+/* Extracted from css-book.pdf, page 40. */
+.box {
+  margin: 50px;
+  width:400px;
+  height:203px;
+  background: url("/images/car2.jpg") no-repeat;
+  position: relative;
+  background-size: cover;
+  /* Chrome, Safari, Opera */
+  -webkit-animation-name: moveit;
+  -webkit-animation-duration: 2s;
+  /* Standard syntax */
+  animation-name: moveit;
+  animation-duration: 5s;
+  animation-iteration-count: 10;
+  animation-direction: alternate;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes moveit {
+  from {left: 0;}
+  to {left: 50%;}
+}
+/* Standard syntax */
+@keyframes moveit {
+  from {left: 0;}
+  to {left: 50%;}
+}

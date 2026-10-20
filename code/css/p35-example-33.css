@@ -1,0 +1,7 @@
+/* Extracted from css-book.pdf, page 35. */
+h1 {
+  border-style: dotted;
+}
+p {
+  border-style: ridge;
+}

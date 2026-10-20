@@ -1,0 +1,4 @@
+/* Extracted from css-book.pdf, page 32. */
+pre {
+  padding: 25px 50px 75px 100px; /* top | right | bottom | left */
+}

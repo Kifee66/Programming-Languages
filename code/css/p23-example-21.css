@@ -1,0 +1,5 @@
+/* Extracted from css-book.pdf, page 23. */
+p {
+  word-spacing: 20px;
+  text-align: justify;
+}

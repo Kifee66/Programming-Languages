@@ -1,0 +1,13 @@
+/* Extracted from css-book.pdf, page 33. */
+h1 {
+  margin: 50px; /* apply to all four sides */
+}
+p {
+  margin: 25px 75px; /* vertical | horizontal */
+}
+div {
+  margin: 25px 50px 75px; /* top | horizontal | bottom */
+}
+hr {
+  margin: 25px 50px 75px 100px; /* top | right | bottom | left */
+}

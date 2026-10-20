@@ -1,0 +1,10 @@
+/* Extracted from css-book.pdf, page 31. */
+h1 {
+  padding: 50px; /* apply to all four sides */
+}
+p {
+  padding: 25px 75px; /* vertical | horizontal */
+}
+div {
+  padding: 25px 50px 75px; /* top | horizontal | bottom */
+}

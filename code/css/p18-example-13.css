@@ -1,0 +1,20 @@
+/* Extracted from css-book.pdf, page 18. */
+h2 {
+  color: burlywood;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  font-weight: 800;
+  font-variant: small-caps;
+}
+h3{
+  /* apply color, background color and font size to h3 */
+  color: white;
+  background-color: black;
+  font-size: 40px;
+}
+p {
+  color: brown;
+  background-color: blanchedalmond;
+}
